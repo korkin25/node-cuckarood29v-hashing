@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+  "_id": "cuckarood29v-hashing@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cuckarood29v-hashing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "cuckarood29v-hashing@git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+    "name": "cuckarood29v-hashing",
+    "escapedName": "cuckarood29v-hashing",
+    "rawSpec": "git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+    "saveSpec": "git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+    "fetchSpec": "https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+  "_spec": "cuckarood29v-hashing@git+https://github.com/xmvdev/node-cuckarood29v-hashing.git",
+  "_where": "/opt/proxy_swap",
+  "author": {
+    "name": "xmvdev"
+  },
+  "bugs": {
+    "url": "https://github.com/xmvdev/node-cuckarood29v-hashing/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bignum": "*",
+    "bindings": "*",
+    "nan": "^2.8.0"
+  },
+  "deprecated": false,
+  "gypfile": true,
+  "homepage": "https://github.com/xmvdev/node-cuckarood29v-hashing#readme",
+  "license": "0bsd",
+  "main": "cuckarood29v-hashing",
+  "name": "cuckarood29v-hashing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmvdev/node-cuckarood29v-hashing.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "1.0.0"
+}
